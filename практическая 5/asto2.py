@@ -1,6 +1,6 @@
-w = float(input())
-h = float(input())
+weight = float(input())
+height = float(input())
 
-b = w / h**2
+bmi = weight / height**2
 
-print("Ваш ИМТ:", b)
+print("Ваш ИМТ:", bmi)
