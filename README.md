@@ -1,1 +1,0 @@
-# novickov_artem
