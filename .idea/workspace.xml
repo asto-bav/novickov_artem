@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="639556c8-4778-41e7-a2be-5a260fdb7fa9" name="Изменения" comment="main">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/практическая 6/asto1.py" beforeDir="false" afterPath="$PROJECT_DIR$/практическая 6/asto1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/практическая 6/asto2.py" beforeDir="false" afterPath="$PROJECT_DIR$/практическая 6/asto2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/практическая 6/asto3.py" beforeDir="false" afterPath="$PROJECT_DIR$/практическая 6/asto3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/практическая 6/asto4.py" beforeDir="false" afterPath="$PROJECT_DIR$/практическая 6/asto4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,61 +52,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.6328787482402647" />
-      <entry key="MS500" value="1.9862977301459677" />
-      <entry key="S2" value="3.6134981072871954" />
-      <entry key="S5" value="7.328265586891335" />
-      <entry key="S10" value="12.26733649226114" />
-      <entry key="S30" value="19.705563980796203" />
-      <entry key="S60" value="22.71096733619126" />
-      <entry key="M2" value="25.37142811812701" />
-      <entry key="M5" value="29.640206503541787" />
-      <entry key="M10" value="33.377015025546804" />
-      <entry key="M15" value="35.71691692504276" />
-      <entry key="M30" value="40.51073831694005" />
-      <entry key="H1" value="49.16472515317926" />
-      <entry key="H2" value="64.60219451382967" />
-      <entry key="H4" value="81.98612485808295" />
-      <entry key="D1" value="107.1855748946153" />
-      <entry key="W1" value="112.98205496662452" />
+      <entry key="MS100" value="1.0066955471264116" />
+      <entry key="MS500" value="1.6616232726959783" />
+      <entry key="S2" value="3.7451712271799114" />
+      <entry key="S5" value="7.565349391218934" />
+      <entry key="S10" value="12.611239935667047" />
+      <entry key="S30" value="20.34780238066103" />
+      <entry key="S60" value="23.503860114470392" />
+      <entry key="M2" value="26.25547884181251" />
+      <entry key="M5" value="30.58594887373077" />
+      <entry key="M10" value="34.346452025876275" />
+      <entry key="M15" value="36.695109846444666" />
+      <entry key="M30" value="41.49836944784868" />
+      <entry key="H1" value="50.15721901407431" />
+      <entry key="H2" value="65.59726281161103" />
+      <entry key="H4" value="82.98299540656963" />
+      <entry key="D1" value="108.18489299590966" />
+      <entry key="W1" value="113.98195228419445" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="4.778E-320" />
-      <entry key="S30" value="3.6284988671444374E-107" />
-      <entry key="S60" value="6.023702239606844E-54" />
-      <entry key="M2" value="2.4543231955279567E-27" />
-      <entry key="M5" value="2.271535932502865E-11" />
-      <entry key="M10" value="4.94896637751049E-6" />
-      <entry key="M15" value="3.237242101365708E-4" />
-      <entry key="M30" value="0.025804538514657225" />
-      <entry key="H1" value="0.2635967010745965" />
-      <entry key="H2" value="0.8775006509772102" />
-      <entry key="H4" value="1.6172685146263175" />
-      <entry key="D1" value="2.705255911006618" />
-      <entry key="W1" value="2.955973618133229" />
+      <entry key="S10" value="4.5227E-320" />
+      <entry key="S30" value="3.5626221654137315E-107" />
+      <entry key="S60" value="5.968770531201333E-54" />
+      <entry key="M2" value="2.4431067595812537E-27" />
+      <entry key="M5" value="2.2673777915765042E-11" />
+      <entry key="M10" value="4.944434658372348E-6" />
+      <entry key="M15" value="3.2352655927803315E-4" />
+      <entry key="M30" value="0.025796659789852114" />
+      <entry key="H1" value="0.2635564569056378" />
+      <entry key="H2" value="0.8774336629756438" />
+      <entry key="H4" value="1.6172067826758283" />
+      <entry key="D1" value="2.7052387005703635" />
+      <entry key="W1" value="2.955970931630895" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.6373036249297629" />
-      <entry key="MS500" value="1.2811386316065032" />
-      <entry key="S2" value="3.213058342956306" />
-      <entry key="S5" value="7.109469889292243" />
-      <entry key="S10" value="12.14211628177692" />
-      <entry key="S30" value="19.658660475203735" />
-      <entry key="S60" value="22.68662979124211" />
-      <entry key="M2" value="25.358814138243343" />
-      <entry key="M5" value="29.63320658656804" />
-      <entry key="M10" value="33.370707423876304" />
-      <entry key="M15" value="35.71153091007036" />
-      <entry key="M30" value="40.5323275502877" />
-      <entry key="H1" value="49.424901382045256" />
-      <entry key="H2" value="65.47653633112795" />
-      <entry key="H4" value="83.60092205183878" />
-      <entry key="D1" value="109.89019385874155" />
-      <entry key="W1" value="115.93793006158472" />
+      <entry key="MS100" value="0.0067136911376769436" />
+      <entry key="MS500" value="0.7598329213243422" />
+      <entry key="S2" value="3.20065659317494" />
+      <entry key="S5" value="7.265225662128091" />
+      <entry key="S10" value="12.439233692367841" />
+      <entry key="S30" value="20.28359506548185" />
+      <entry key="S60" value="23.470625249675212" />
+      <entry key="M2" value="26.238352435827228" />
+      <entry key="M5" value="30.577131228837327" />
+      <entry key="M10" value="34.33923450999027" />
+      <entry key="M15" value="36.68911656670214" />
+      <entry key="M30" value="41.51964676628148" />
+      <entry key="H1" value="50.41720284772114" />
+      <entry key="H2" value="66.47146154250538" />
+      <entry key="H4" value="84.5976927922049" />
+      <entry key="D1" value="110.88948839180037" />
+      <entry key="W1" value="116.93782378390345" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -132,6 +128,8 @@
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.asto 1.executor": "Run",
+    "Python.asto 3.executor": "Run",
     "Python.asto1.executor": "Run",
     "Python.asto2.executor": "Run",
     "Python.asto3.executor": "Run",
@@ -193,56 +191,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
+    <configuration name="asto 1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="практические" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="SDK_NAME" value="~\PycharmProjects\WelcomeScreen\.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/практическая 7" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/практическая 7/asto 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
+    <configuration name="asto 3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="практические" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="SDK_NAME" value="~\PycharmProjects\WelcomeScreen\.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/практическая 7" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/практическая 7/asto 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
+    <configuration name="asto2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="практические" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="SDK_NAME" value="~\PycharmProjects\WelcomeScreen\.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/практическая 7" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/практическая 7/asto2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -264,23 +285,6 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="практические" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
   </component>
